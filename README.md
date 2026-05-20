@@ -1,0 +1,1 @@
+# Bog & ide design manual
